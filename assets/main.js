@@ -1,6 +1,6 @@
 const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCCZGYab5SpD0I7Z5JqJZgww&part=snippet%2Cid&order=date&maxResults=9';
 
-const content = document.getElementById('test');
+const content = document.getElementById('content2');
 console.log(content);
 const options = {
 	method: 'GET',
