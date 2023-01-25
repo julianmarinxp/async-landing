@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gh-pages": "gh-pages -d ./",
+    "gh-pages": "gh-pages -d ./"
     
   },
   "repository": {
